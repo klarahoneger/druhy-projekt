@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(232, 226, 204);
-    color: darkmagenta;
+    background-color: rgb(255, 243, 255);
+    color: rgb(0, 69, 139);
 }
 
 h1 {
@@ -8,5 +8,5 @@ h1 {
 }
 
 p {
-    color: green;
+    color: rgb(164, 240, 164);
 }
